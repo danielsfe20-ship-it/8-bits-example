@@ -9,7 +9,7 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+Ripple Carry Adder 8 bit example
 
 ## How to test
 
